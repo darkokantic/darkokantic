@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darkokantic
-- 👀 I’m interested in Golang and Domain Driven Design DDD  
+- 👀 I’m interested in Golang, Microservices and Domain Driven Design DDD  
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Go training materials
 - 📫 How to reach me twitter @DarkoKantic, medium @darko-kantic, linkedin https://www.linkedin.com/in/kantic/
