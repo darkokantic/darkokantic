@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darkokantic
-- 👀 I’m interested in Java, Microservices and Domain Driven Design DDD  
+- 👀 I’m interested in Java, Microservices and Domain-Driven Design DDD  
 - 📫 How to reach me twitter @DarkoKantic, medium @darko-kantic, linkedin https://www.linkedin.com/in/kantic/
 
 <!---
